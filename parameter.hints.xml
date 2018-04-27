@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.net.ServerSocket.ServerSocket(port,backlog,bindAddr)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
